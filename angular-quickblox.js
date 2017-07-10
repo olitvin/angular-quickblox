@@ -81686,8 +81686,8 @@
         }, {} ],
         597: [ function(require, module, exports) {
             "use strict";
-            var Quickblox = require("quickblox").QuickBlox;
-            angular.module("olitvin.quickblox", []).factory("QB", function() {
+            var Quickblox = require("quickblox");
+            angular.module("olitvin.quickblox", []).factory("Quickblox", function() {
                 return Quickblox;
             });
         }, {
