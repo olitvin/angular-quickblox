@@ -1,0 +1,23 @@
+{
+  "name": "angular-quickblox",
+  "version": "0.0.1",
+  "authors": [
+    "Oleg Litvin <olitvin@zuzex.com>"
+  ],
+  "main": "angular-quickblox.js",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "description": "module for use quickblox library",
+  "dependencies": {
+    "quickblox": "^2.6.0"
+  }
+}
