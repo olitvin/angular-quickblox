@@ -2,6 +2,6 @@
 var Quickblox = require('quickblox');
 
 angular.module('olitvin.quickblox', [])
-    .factory('QB', function () {
+    .factory('Quickblox', function () {
         return Quickblox;
     })
