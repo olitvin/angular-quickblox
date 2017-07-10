@@ -1,5 +1,5 @@
 'use strict';
-var Quickblox = require('quickblox').QuickBlox;
+var Quickblox = require('quickblox');
 
 angular.module('olitvin.quickblox', [])
     .factory('QB', function () {
