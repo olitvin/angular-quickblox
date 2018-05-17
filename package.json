@@ -32,13 +32,14 @@
     "grunt-karma": "latest",
     "karma-jasmine": "latest",
     "grunt-open": "^0.2.2",
-    "grunt-browserify": "^3.1.0"
-  },
-  "dependencies": {
-    "assert": "^1.1.2",
+    "grunt-browserify": "^3.1.0",
     "grunt": "^1.0.1",
     "karma": "^1.7.0",
     "karma-chrome-launcher": "^0.1.5",
-    "quickblox": "^2.6.0"
+    "assert": "^1.1.2"
+  },
+  "dependencies": {
+    "nativescript-xmpp-client": "^1.2.0",
+    "quickblox": "^2.11.0"
   }
 }

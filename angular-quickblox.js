@@ -1,6 +1,6 @@
 /*
   angular-quickblox - v0.0.1 
-  2017-07-10
+  2018-05-17
 */
 (function(window, angular, Math, undefined) {
     (function e(t, n, r) {
